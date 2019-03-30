@@ -1,0 +1,7 @@
+"","id","weight","lenght","sex","ethnicity","tumer_size","drug","live"
+"1",1,75,117,"femal","asian",1.20580034377053,"drug A","live"
+"2",2,65,190,"male","indian",2.60309400921687,"drug B","live"
+"3",3,70,150,"male","asian",1.70865612989292,"drug A","live"
+"4",4,83,132,"male","asian",2.87286507850513,"drug A","live"
+"5",5,54,153,"male","asian",1.49173278454691,"drug A","dead"
+"6",6,60,144,"femal","african americain",1.94628292275593,"drug B","dead"
